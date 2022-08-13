@@ -1,0 +1,1 @@
+{"access_token": "3hnig13ko7n605kj5qnaul1m8euwj7", "expires_in": 5058360, "token_type": "bearer", "exp_date": "2022-09-16 06:47:25.277102"}
